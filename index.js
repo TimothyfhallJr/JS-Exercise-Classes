@@ -20,7 +20,7 @@ class Airplane {
     this.isFlying = false;
   }
 }
-
+console
 /*
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
